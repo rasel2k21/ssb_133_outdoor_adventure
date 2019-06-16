@@ -58,9 +58,9 @@ header{
     height: 3px;
     width: 60px;
     background:#fb2056;
-    top: 23%;
+    top: 20%;
     left: 50%;
-    transform: translate(-50%,-23%);
+    transform: translate(-50%,-50%);
     transition: .4s all;
 }
 .banner-content:hover h3:after{
